@@ -11,14 +11,14 @@ They can select <br>
 1. specific class<br>
 2. specific types of assignments<br>
 3. specific time range<br>
-4. A combination or some or all of the options.<br><br>
+4. a combination or some or all of the options.<br><br>
 
 Users can also sort the list by<br>
 
 1. due date<br>
 2. course<br>
-3. or importance<br>
-4. or a combination of the some or all of the options.<br><br>
+3. importance<br>
+4. a combination of the some or all of the options.<br><br>
 
 ## Functionality
 1. Users will have to login using a username to be able to access their courses and assignments.<br>
