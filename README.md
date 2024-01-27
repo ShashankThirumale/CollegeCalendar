@@ -37,10 +37,7 @@ So asking questions like "Would you prioritize studying for a test that is 3 wee
 **Web Development:** HTML, CSS, and JavaScript<br>
 
 ## Database
-| User | Course | Type | Tags | Date | Weight |
-| - - - | - - - | - - -| - - - | - - - | - - - |
-| shashank.thirumale@gmail.com | CMSC 250 | Final | Major | 2024-05-14 | 0.30 |
-| sthiruma@terpmail.umd.edu | CMSC 216 | Mid Term | Mahor | 2024-03-18 | 0.16 |
+![Image](database.png) 
 
 
 
