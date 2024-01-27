@@ -11,8 +11,10 @@ They can select <br>
 1. specific class<br>
 2. specific types of assignments<br>
 3. specific time range<br>
-4. A combination or some or all of the options.<br>
+4. A combination or some or all of the options.<br><br>
+
 Users can also sort the list by<br>
+
 1. due date<br>
 2. course<br>
 3. or importance<br>
