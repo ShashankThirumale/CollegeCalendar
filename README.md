@@ -27,7 +27,7 @@ I think that having a survey in the website to see what assignments people prior
 So asking questions like "Would you prioritize studying for a test that is 3 weeks away or doing a homework assigments that is due in 5 days" could help me collect data to create an AI based algorithm.<br><br>
 
 ## High Level Flow Chart
-![Image](HighLevelFlowChart.drawio(3).png) 
+![Image](HighLevelFlowChart.drawio.png) 
 
 ## Technology
 **Database:** SQL - MySQL<br>
