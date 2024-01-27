@@ -6,7 +6,7 @@ For example sometimes I want to know all the tests that I have in the next two w
 
 ## List Options
 First users will upload a list of all their assigments and test for every course that they are taking.<br>
-Afterwards the user will be able to get a list of assignments based on what they want.<br>
+Afterwards the user will be able to get a list of assignments based on what they want.<br><br>
 They can select <br>
 1. specific class<br>
 2. specific types of assignments<br>
