@@ -50,6 +50,12 @@ So asking questions like "Would you prioritize studying for a test that is 3 wee
 ## Database
 ![Image](database.png) 
 
+## UI/UX Design
+### Sign Up and Login page
+![Image](signup.png) 
+![Image](login.png) 
+
+
 
 
 
