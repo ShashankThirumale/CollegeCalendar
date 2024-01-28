@@ -5,27 +5,27 @@ Although there are many services out there that can accompish this goal none of 
 For example sometimes I want to know all the tests that I have in the next two weeks or I want a list that ranks the importance of assignments so i know which one to start working on.<br><br>
 
 ## List Options
-First users will upload a list of all their assigments and test for every course that they are taking.<br>
-Afterwards the user will be able to get a list of assignments based on what they want.<br><br>
+First users will upload/create a list of all their assigments and test for every course that they are taking.<br>
+Afterwards uplodaing their assignments the user will be able to configure when they recieve notifcations and they will be able to view the assignments based on specific criteria<br><br>
 They can select <br>
-1. specific class<br>
+1. specific classes<br>
 2. specific types of assignments<br>
-3. specific time range<br>
-4. a combination or some or all of the options.<br><br>
+3. specific time ranges<br>
+4. a combination of some or all of the options.<br><br>
 
 Users can also sort the list by<br>
 
 1. due date<br>
 2. course<br>
 3. importance<br>
-4. a combination of the some or all of the options.<br><br>
+4. a combination of some or all of the options.<br><br>
 
 ## Functionality
 1. Users will have to login using a username to be able to access their courses and assignments.<br>
 2. Users will also have the ability to turn on notifications* and daily reports**.<br>
 3. When users log into the website they will first be greeted with a calendar that shows all the assignments that are due for the current week.<br>
-4. Once the users scroll down they will be met with a place where they can select what type of list they want to generate.<br>
-5. When users continue to scroll they will be met with a place to add courses, assignments, and types of assignments.<br>
+4. Users can configure the <br>
+5. Users will be able add/update/delete courses, assignments, and types of assignments.<br>
 *The daily reports will give information about all of the assignments that are due in the next seven days and will show any exams that are less than two weeks away.<br>
 **The notifications will be reminders to finish specific assignmenets that are really important like projects or to study for a exam.<br><br>
 
@@ -41,7 +41,7 @@ So asking questions like "Would you prioritize studying for a test that is 3 wee
 ![Image](HighLevelFlowChart.png) 
 
 ## Technology
-**Database:** SQL - MySQL<br>
+**Database:** RDBMS - MySQL<br>
 **API** to connect database to backend technology<br>
 **Backend:** Node.js<br>
 **FrontEnd:** React.js<br>
