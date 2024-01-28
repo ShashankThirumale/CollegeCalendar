@@ -52,8 +52,8 @@ So asking questions like "Would you prioritize studying for a test that is 3 wee
 
 ## UI/UX Design
 ### Sign Up and Login page
-![Image](signup.png) 
-![Image](login.png) 
+![Image](Signup.png) 
+![Image](Login.png) 
 
 
 
